@@ -1,0 +1,43 @@
+body {
+
+    background-image: url("/imagenes/imagefondo7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    .titulo {
+
+        color: rgb(200, 231, 22);
+        font-size:xx-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    .nombre {
+
+        color: rgb(255, 157, 10);
+        text-align: left;
+        font-size: 100;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.enlaces {
+    color: rgb(28, 16, 185);
+    font-size: xx-large;
+    width: 300px;
+    height: 500px;
+    float: right;
+}
+    .menus {
+        color: rgb(235, 231, 14);
+        font-size: xx-large;
+   
+           }
+.texto1 {
+    color: rgb(252, 249, 249);
+}
+.texto2 {
+    color: rgb(255, 154, 2);
+
+}
+
+}

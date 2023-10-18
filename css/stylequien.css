@@ -1,0 +1,42 @@
+body {
+    background-image:url(/imagenes/fondo.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .enlace {
+
+        color: #e2cd55;
+        font-size:xx-large;
+           }
+
+    .titulo {
+        color: bisque;
+        font-size: 80;
+        text-align: center;
+        }
+
+    .p1 {
+
+        color: rgb(29, 208, 221);
+        font-size: x-large;
+        
+        text-align: center;
+        
+       }
+    .parrafo {
+
+        margin-top:80px; 
+         width: 640px;
+         height: 500px;
+         margin-left: 80px;
+        
+         background-color: rgb(112, 10, 66);
+
+        }
+    .menus {
+        float: right;
+        width: 300px;
+        height: 500px;
+    }
+        
+}

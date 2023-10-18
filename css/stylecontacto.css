@@ -1,0 +1,36 @@
+body {
+    background-image: url(/imagenes/fondo1.jpg);
+.titulo {
+    color: #1cd85b;
+    font-size:80px;
+    text-align: center;
+}
+
+    .menus {
+        width: 600px;
+        height: 550px;
+        float: left;
+    
+      font-size: xx-large;
+    }
+
+.enlace {
+    color: #eeea19;
+    font-size: xx-large;
+}
+.mayusculas {
+    color: #deec17;
+    font-size: xx-large;
+}
+.minusculas {
+    color: rgb(192, 35, 140);
+    font-size: xx-large;
+}
+.contactos {
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+
+
+}
